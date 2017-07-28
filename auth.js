@@ -1,3 +1,3 @@
 function me(argument) {
-	// body...
+	console.log(argument)
 }
